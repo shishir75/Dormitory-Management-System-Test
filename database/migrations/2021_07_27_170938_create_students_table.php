@@ -20,7 +20,7 @@ class CreateStudentsTable extends Migration
             $table->integer( "dept_id" );
             $table->integer( "session_id" );
             $table->integer( "hall_id" )->nullable();
-            $table->integer( "rooom_no" )->nullable();
+            $table->integer( "room_no" )->nullable();
             $table->timestamps();
         } );
     }
