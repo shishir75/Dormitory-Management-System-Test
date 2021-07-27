@@ -81,17 +81,14 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    Dormitory Management System
                 </div>
-
-                <div class="links">
-                    <a href="https://laravel.com/docs">Docs</a>
-                    <a href="https://laracasts.com">Laracasts</a>
-                    <a href="https://laravel-news.com">News</a>
-                    <a href="https://blog.laravel.com">Blog</a>
-                    <a href="https://nova.laravel.com">Nova</a>
-                    <a href="https://forge.laravel.com">Forge</a>
-                    <a href="https://github.com/laravel/laravel">GitHub</a>
+                <div class="mt-3 text-center">
+                   <h3>Design & Developed By: </h3>
+                   <h2><strong>Md. Obydullah Sarder</strong></h2>
+                   <h2><strong>ID: 1305</strong></h2>
+                   <h3>Institute of Information Technology</h3>
+                   <h3>Jahangirnagar University</h3>
                 </div>
             </div>
         </div>
